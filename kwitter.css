@@ -1,0 +1,42 @@
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+ .login_div{
+    background: rgba(255,255,255,0.8); 
+   
+    border-radius: 15px;
+    position: right;
+ margin: 200;
+}
+#twitter{
+    width: 60px;
+    margin-top: 30px;
+    border-radius: 40px;
+}   
+
+
+body{
+    height: 100%;
+    margin: 0;
+background-color: purple;
+}
+
+h3 {
+    font-style:Permanent Marker;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: bold;
+
+}
+
+#blossmingbird{
+    max-width:8%;
+    height:auto;
+}
+
+#user_name{
+    width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
